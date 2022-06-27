@@ -1,4 +1,4 @@
-# wechat ： findpanpan
+# wechat ： findpanpan2
 from data.runBetData import RunBetData
 from app.BinanceAPI import BinanceAPI
 from app.authorization import api_key,api_secret
